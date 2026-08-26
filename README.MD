@@ -1,4 +1,4 @@
-# 📊 Operational Cost & Consumption Analysis — Reef Real Estate
+# 📊 Operational Cost & Consumption Analysis — Masarat Real Estate
 
 > A business-focused Power BI dashboard analyzing operational expenses, resource consumption efficiency, and cost optimization across three quarterly periods.
 
@@ -6,9 +6,12 @@
 
 ## 📌 Project Overview
 
-This project presents an analytical dashboard exploring and comparing operational spending patterns within a real estate company (Reef, Dubai).
+This project presents an analytical dashboard exploring and comparing operational spending patterns within a real estate company (Masarat, Dubai).
 
 The analysis covers **2025 Q4, 2026 Q1, and 2026 Q2**, structured as an **exploratory business report** aimed at extracting actionable insights — with a focus on evaluating the impact of a new operations manager who took over procurement and cost control starting in 2026.
+
+Note on Data Privacy:
+"The company name and specific identifying details in this project have been anonymized to protect proprietary operational data, while fully preserving the underlying analytical logic and business insights."
 
 ---
 
